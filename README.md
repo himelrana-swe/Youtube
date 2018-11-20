@@ -13,7 +13,7 @@ As an developer. Most of the time I must clear web browser. But I always like to
 - [Linux i386 (Debian - .deb)](https://github.com/himelrana-swe/Youtube/releases/download/v1.0.0/Youtube_Linux_1.0.0_i386.deb)
 - [linux-ia32-unpacked.zip](https://github.com/himelrana-swe/Youtube/releases/download/v1.0.0/linux-ia32-unpacked.zip)
 - [linux-x64-unpacked.zip](https://github.com/himelrana-swe/Youtube/releases/download/v1.0.0/linux-x64-unpacked.zip)
-Ohh. man i am updating this section. You are too early here. You can download from release section now.
+
 ## Screenshot
 ![enter image description here](https://raw.githubusercontent.com/himelrana-swe/Youtube/master/images/1.jpg)
 
