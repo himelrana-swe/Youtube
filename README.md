@@ -1,4 +1,4 @@
-# Youtube Desktop Application
+#  ![enter image description here](https://lh6.googleusercontent.com/Z5fFDkJrhXrjj0ymanY2gbI7B0pXQV2xiFM9-Gbbxcfafv1rqGT3oxOTzcpMWD2epVFaNgYfa75ctpAi3Av1=w1920-h928)Youtube Desktop Application
 
 A cross platform **Youtube** Desktop Application.  Now available for Windows And Debian Installer package. Also available executable files for other Linux. 
 
@@ -6,9 +6,20 @@ A cross platform **Youtube** Desktop Application.  Now available for Windows And
 
 As an developer. Most of the time I must clear web browser. But I always like to listen some awesome music from Youtube during development. That's why created this solution. So that Youtube can be play from other application. Unfortunately **Spotify** Not available in my country. But this application is a very good alternative for listening all favourite music for free. I have implemented tray Icon functionality so that it's not take space in my Taskbar. That is also a great relief for me.
 
-## Click on icon to download your version
-
+## Download your version
+- [Windows x64](https://github.com/himelrana-swe/Youtube/releases/download/v1.0.0/Youtube.Setup.x64.v1.0.0.exe)
+- [Windows x86](https://github.com/himelrana-swe/Youtube/releases/download/v1.0.0/Youtube.Setup.-x86.v1.0.0.exe)
+- [Linux amd64 (Debian - .deb)  ](https://github.com/himelrana-swe/Youtube/releases/download/v1.0.0/Youtube_Linux_1.0.0_amd64.deb)
+- [Linux i386 (Debian - .deb)](https://github.com/himelrana-swe/Youtube/releases/download/v1.0.0/Youtube_Linux_1.0.0_i386.deb)
+- [linux-ia32-unpacked.zip](https://github.com/himelrana-swe/Youtube/releases/download/v1.0.0/linux-ia32-unpacked.zip)
+- [linux-x64-unpacked.zip](https://github.com/himelrana-swe/Youtube/releases/download/v1.0.0/linux-x64-unpacked.zip)
 Ohh. man i am updating this section. You are too early here. You can download from release section now.
+## Screenshot
+![enter image description here](https://raw.githubusercontent.com/himelrana-swe/Youtube/master/images/1.jpg)
+
+![enter image description here](https://raw.githubusercontent.com/himelrana-swe/Youtube/master/images/3.png)
+
+![enter image description here](https://raw.githubusercontent.com/himelrana-swe/Youtube/master/images/2.png)
 
 ## How to contribute.
 
