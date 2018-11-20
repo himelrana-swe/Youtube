@@ -1,4 +1,4 @@
-#  ![enter image description here](https://lh6.googleusercontent.com/Z5fFDkJrhXrjj0ymanY2gbI7B0pXQV2xiFM9-Gbbxcfafv1rqGT3oxOTzcpMWD2epVFaNgYfa75ctpAi3Av1=w1920-h928)Youtube Desktop Application
+#  ![enter image description here](https://raw.githubusercontent.com/himelrana-swe/Youtube/master/images/icon.png)Youtube Desktop Application
 
 A cross platform **Youtube** Desktop Application.  Now available for Windows And Debian Installer package. Also available executable files for other Linux. 
 
