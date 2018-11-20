@@ -4,7 +4,7 @@ A cross platform **Youtube** Desktop Application.  Now available for Windows And
 
 # Why I have developed this?
 
-As an developer. Most of the time I must clear web browser. But I always like to listen some awesome music from Youtube during development. That's why created this solution. So that Youtube can be play from other application. Unfortunately **Spotify** Not available in my country. But this application is a very good alternative for listening all favourite music for free. I have implemented tray Icon functionality so that it's not take space in my Taskbar. That is also a great relief for me.
+As a developer. Most of the time I must clear web browser. But I always like to listen some awesome music from Youtube during development. That's why created this solution. So that Youtube can be play from other application. Unfortunately **Spotify** Not available in my country. But this application is a very good alternative for listening all favourite music for free. I have implemented tray Icon functionality so that it's not take space in my Taskbar. That is also a great relief for me.
 
 ## Download your version
 - [Windows x64](https://github.com/himelrana-swe/Youtube/releases/download/v1.0.0/Youtube.Setup.x64.v1.0.0.exe)
